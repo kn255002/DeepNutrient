@@ -1,0 +1,15 @@
+# Flask
+instance/
+.webassets-cache/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+*.env
+.env
+
+# Test data
+test.txt
+users/
+instance/database.db

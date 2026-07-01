@@ -1,0 +1,11 @@
+Flask
+MarkupSafe
+Werkzeug
+Flask-WTF
+google-generativeai
+Pillow
+bleach
+pytest-mock
+markdown
+python-dotenv
+cryptography
