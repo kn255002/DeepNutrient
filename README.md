@@ -1,13 +1,10 @@
 # Health & Nutrition Tracker using Gemini
 
-This is a Flask-based web application designed for tracking health and nutrition. It allows users to sign up, manage their profiles, and upload images of food for analysis. The application leverages the Gemini 2.5 Flash model to provide nutritional information and recommendations based on the uploaded images. It features a clean, modern user interface and a secure backend.
-
-
-PoC Developed with (Jules, Gemini, Self effort) :
-Khurram Nazir
-Khurram.deutsch@yahoo.com
-18.12.2025
-
+This is a Flask-based web application designed for tracking health and nutrition. It allows users to sign up, manage their profiles, and upload images of food for analysis. The application leverages the Gemini 2.5 Flash model to provide nutritional information and recommendations based on the uploaded images. It features a clean, modern user interface and a secure backend. PoC Developed with (Jules, Gemini, Self effort) :
+### Khurram Nazir
+### Khurram.deutsch@yahoo.com
+### 18.12.2025
+###-----------------------------------
 ## Features
 
 - **User Authentication:** Secure signup, login, and logout functionality for regular users.
